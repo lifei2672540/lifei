@@ -1,5 +1,9 @@
 /*
 
+
+
+
+
 这是一个轻量版的下载链接，不确定能不能跟脚本使用 如果不可以那就只能用ipa安装包
 https://42.157.129.186:7801/#/?uid=pingtai1&uid=70880936
 
@@ -7,7 +11,7 @@ https://42.157.129.186:7801/#/?uid=pingtai1&uid=70880936
 
 #鲍鱼盒子🚗
 
-^http[s]?:\/\/.+\/api(\/video\/report_item?|\/live\/room\/detail?|\/video\/related?|\/video\/detail|\/social\/posts_info).*$ url script-request-header http://lifei555.tk/quanx/by.js
+^http[s]?:\/\/.+\/api(\/video\/report_item?|\/live\/room\/detail?|\/video\/related?|\/video\/detail|\/social\/posts_info).*$ url script-request-header https://raw.githubusercontent.com/lifei2672540/lifei/main/by.js
 
 [mitm]
 
