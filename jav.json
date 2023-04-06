@@ -9,6 +9,11 @@
 			"url0": "https://javday.tv/category/new-release/",
 			"url1": "https://javday.tv/category/new-release/page/{pg}/"
 		},
+	      {
+			"title": "最近更新",
+			"url0": "https://javday.tv/label/new/",
+			“url1”：“https://javday.tv/label/new/page/{pg}/”
+		},
     {
 			"title": "有码",
 			"url0": "https://javday.tv/category/censored/",
